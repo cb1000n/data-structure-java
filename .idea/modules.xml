@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1-Array/1-Array.iml" filepath="$PROJECT_DIR$/1-Array/1-Array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1-Array/1.1-Array-Basics/1.1-Array-Basics.iml" filepath="$PROJECT_DIR$/1-Array/1.1-Array-Basics/1.1-Array-Basics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1-Array/1.2-My-Array/1.2-My-Array.iml" filepath="$PROJECT_DIR$/1-Array/1.2-My-Array/1.2-My-Array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1-Array/1.5-Contain-Find-And-Remove/1.5-Comtain-Find-And-Remove.iml" filepath="$PROJECT_DIR$/1-Array/1.5-Contain-Find-And-Remove/1.5-Comtain-Find-And-Remove.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1-Array/1.6-Generic-Data-Structures/1.6-Generic-Data-Structures.iml" filepath="$PROJECT_DIR$/1-Array/1.6-Generic-Data-Structures/1.6-Generic-Data-Structures.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1-Array/1.3-Add-Element-in-Array/Add-Element-in-Array.iml" filepath="$PROJECT_DIR$/1-Array/1.3-Add-Element-in-Array/Add-Element-in-Array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1-Array/1.4-Query-and-Update-Element/Query-and-Update-Element.iml" filepath="$PROJECT_DIR$/1-Array/1.4-Query-and-Update-Element/Query-and-Update-Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/dataStructureByJava.iml" filepath="$PROJECT_DIR$/dataStructureByJava.iml" />
     </modules>
   </component>
