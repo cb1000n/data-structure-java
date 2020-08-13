@@ -6,3 +6,12 @@ Query
 
 illegal
 非法的
+
+contain
+包含
+
+Generic
+泛型
+
+Structures
+结构
